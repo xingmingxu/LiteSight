@@ -1,6 +1,6 @@
 # LiteSight: Efficient Chart Summarization via LoRA
 
-Contributors: Nathan Kotni, Qikai Ma, Yinuo Tang, Xingming Xu.
+Contributors: **Xingming Xu**, Nathan Kotni, Qikai Ma, Yinuo Tang
 
 # Setup
 
