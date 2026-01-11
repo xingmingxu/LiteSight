@@ -1,5 +1,6 @@
-# ECS289A-final-project
-ECS289A Final project for Nathan Kotni, Qikai Ma, Yinuo Tang, Xingming Xu.
+# LiteSight: Efficient Chart Summarization via LoRA
+
+Contributors: Nathan Kotni, Qikai Ma, Yinuo Tang, Xingming Xu.
 
 # Setup
 
